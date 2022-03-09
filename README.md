@@ -1,13 +1,13 @@
 # Internet-ReMiXed
-A cleaner internet. Tools and documentation for helping a computer user to read and find information on the internet in a safe and clean way, as most internauts would want it to be.
+A cleaner internet. Tools and documentation for helping a computer user to browse, read and find information on the internet in a safe and clean way, as most internauts would want it to be.
 
-The [Internet](https://en.wikipedia.org/wiki/Internet) is not regulated. In many ways, it's a wild-west. As it evolved, little care is taken for the reader, especially the press. Lot of ads, banners, pop-ups, forms (subscribe for news etc) and many other buzzware. Not to mention cookies, media buttons and links, trackers etc. We'd like to clean all this mess in a way which:
-- read information easily
-- remove ads
-- remove social-media links and buttons
-- remove trackers
-- warn user of possible malware websites
-- customize the above
+The [Internet](https://en.wikipedia.org/wiki/Internet) is not regulated. In many ways, it's a wild-west. As it evolved, little care is taken for the reader, especially the press articles. Lot of ads, banners, pop-ups, forms (subscribe for news etc) and many other buzzware. Not to mention cookies, media buttons and links, trackers etc. reading on the internet is not so pleasant for the most part. We'd like to clean all this mess in a way which:
+- information could be read easily
+- ads are removed
+- social-media links and buttons - removed
+- trackers - removed
+- user is warned before entering to malware websites, but still able to enter as safe as possible
+- the above can be customized as options
 
 To achieve this, we research and advise. Dedicated sections of tools which already work well are described. If planets align well, all these will be put together into a web browser extension/addon. Ultimately, browsing speed will increase, as well.
 
