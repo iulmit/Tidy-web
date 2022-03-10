@@ -1,4 +1,12 @@
-It works with Google Chrome, Chromium, even Opera
+# Extensions/add-ons
+
+Extensions/add-ons for Google Chrome, Chromium, even Opera.
+<!-- 
+_template_ ([#]())</br>
+[add-ons webstore]() | 
+[website]() | 
+[source-code]()
+-->
 
 HTTPS Everywhere (EFF and the Tor Project) - automatically switches sites from insecure "http" to secure "https"
 https://www.eff.org/https-everywhere
