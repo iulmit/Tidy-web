@@ -32,6 +32,8 @@ uBlock Origin (Raymond Hill) - block ads
 https://github.com/gorhill/uBlock
 https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
 
-LastPass - Password Manager
-https://www.lastpass.com/
-https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd
+LastPass ([#]()) - Password Manager</br>
+[add-ons webstore](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) | 
+[website](https://www.lastpass.com/) | 
+[source-code](https://github.com/lastpass)</br>
+
