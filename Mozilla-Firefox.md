@@ -61,10 +61,6 @@ uBlock Origin ([Raymond Hill](https://addons.mozilla.org/en-US/firefox/user/1142
 <br><br>
 
 --- Clean up URLs from trackers (extensions under supervision)</br>
-
-This is a good example of URL to clean, unsuccesfully so far (no extension was able to clean):</br>
-https://addons.mozilla.org/en-US/firefox/user/16996202/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link
-
 au-revoir-utm ([Anthony Ricaud](https://addons.mozilla.org/en-US/firefox/user/5427034/))</br>
 [add-ons webstore](https://addons.mozilla.org/en-US/firefox/addon/au-revoir-utm/) | 
 [source-code](https://github.com/Rik/au-revoir-utm)</br>
@@ -97,7 +93,13 @@ UTM Remover ([bnrr](https://addons.mozilla.org/en-US/firefox/user/12996620/))</b
 Also, it is possible to filter-out marketing part of the URL via [Privoxy](https://www.privoxy.org/) rule, as explained in comments here:</br>
 https://www.ghacks.net/2012/05/07/how-to-remove-utm_-tracking-tokens-in-your-browser/
 
-Be aware that some web developers are doing this explicitly so that it can be seen in URL (as garbage), while others is using it behind what a user can see:</br>
+Note1: Some web developers are doing this explicitly so that it can be seen in URL (as garbage), while others is using it behind what a user can see:</br>
 https://stackoverflow.com/questions/48506722/remove-utm-parameters-from-url</br>
 https://davidwalsh.name/remove-utm-parameters-urls</br>
+
+Note2: This is a good example of URL to clean, unsuccesfully so far (no extension was able to clean):</br>
+https://addons.mozilla.org/en-US/firefox/user/16996202/?utm_source=firefox-browser&utm_medium=firefox-browser&utm_content=addons-manager-user-profile-link
+
+Note3: "WebExtensions (like Neat URL) aren't allow to work on several Mozilla domains. This is a security feature. To allow all WebExtensions to work on these websites, you need to edit extensions.webextensions.restrictedDomains in about:config."</br>
+https://github.com/Smile4ever/Neat-URL/blob/master/README.md#parameter-rules
 
