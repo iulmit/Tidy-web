@@ -59,9 +59,9 @@ uBlock Origin ([Raymond Hill](https://addons.mozilla.org/en-US/firefox/user/1142
 Tutorials: [12bytes.org](https://12bytes.org/articles/tech/firefox/ublock-origin-suggested-settings/)
 Note: [MVPS HOSTS list](https://winhelp2002.mvps.org/hosts.htm) is included in uBlock Origin for Google Chrome; uBlock Origin for Firefox or other browsers does not have it</br>
 
-<br><br>
+--- 
 
---- Clean up URLs from trackers (extensions under supervision)</br>
+# Clean up URLs from trackers (extensions under supervision)</br>
 
 au-revoir-utm ([Anthony Ricaud](https://addons.mozilla.org/en-US/firefox/user/5427034/)) - last update: 2018-02-13</br>
 [Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/au-revoir-utm/) | 
@@ -105,4 +105,13 @@ https://addons.mozilla.org/en-US/firefox/user/16996202/?utm_source=firefox-brows
 
 Note3: "WebExtensions (like Neat URL) aren't allow to work on several Mozilla domains. This is a security feature. To allow all WebExtensions to work on these websites, you need to edit extensions.webextensions.restrictedDomains in about:config."</br>
 https://github.com/Smile4ever/Neat-URL/blob/master/README.md#parameter-rules
+
+---
+
+# Reference links
+
+WebRTC Leaks</br>
+https://restoreprivacy.com/webrtc-leaks/</br>
+about:config > media.peerconnection.enabled > **false**</br>
+Note: WebRTC cannot be disabled in Chrome (desktop)</br>
 
