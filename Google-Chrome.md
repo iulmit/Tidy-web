@@ -1,6 +1,12 @@
 # Google Chrome extensions
 
 Extensions/add-ons for Google Chrome, Chromium, Opera.
+
+This is a list of extensions to be added to Google Chrome/Chromium with maximum protection and still keeping it usable.</br>
+Use case: Gmail, other sites using login via Gmail.</br>
+
+---
+
 <!-- 
 _template_ ([#]())</br>
 [Google Play]() | 
