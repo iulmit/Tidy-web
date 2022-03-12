@@ -38,11 +38,13 @@ NoScript (Hackademix) - allows active content (JavaScript, Flash, Java) only for
 [source-code](https://github.com/hackademix/noscript/)</br>
 
 
-uBlock Origin (Raymond Hill) - block ads</br>
+uBlock Origin (Raymond Hill) - a wide-spectrum blocker to stop ads, trackers, malware</br>
 [add-ons webstore](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | 
-[website](https://github.com/gorhill/uBlock) | 
 [source-code](https://gitlab.com/gorhill/uBlock)</br>
-Tutorials: [12bytes.org](https://12bytes.org/articles/tech/firefox/ublock-origin-suggested-settings/)
+[Documentation](https://github.com/gorhill/uBlock/wiki) | 
+[Solutions for common issues](https://www.reddit.com/r/uBlockOrigin/wiki/solutions) | 
+[Additional filter lists](https://filterlists.com/)</br>
+Tutorials: [12bytes.org](https://12bytes.org/articles/tech/firefox/ublock-origin-suggested-settings/)</br>
 
 
 LastPass - password manager</br>
