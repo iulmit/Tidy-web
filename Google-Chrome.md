@@ -1,4 +1,4 @@
-# Extensions/add-ons
+# Google Chrome extensions
 
 Extensions/add-ons for Google Chrome, Chromium, even Opera.
 <!-- 
