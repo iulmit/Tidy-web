@@ -1,5 +1,5 @@
 # Web browsers
-Accessing [internet](https://en.wikipedia.org/wiki/Internet) can be done in several ways on computer/laptop, either using a fancy internet browser or a simple one in the terminal console.
+Accessing the [internet](https://en.wikipedia.org/wiki/Internet) can be done in several ways on computer/laptop, either using a fancy internet browser or a simple one in the terminal console. Presented bellow are information from trusted sources.
 
 What is a web browser?</br>
 https://en.wikipedia.org/wiki/Web_browser
