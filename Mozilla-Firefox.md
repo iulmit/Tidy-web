@@ -1,6 +1,6 @@
-# Extensions/add-ons
+# Mozilla Firefox add-ons
 
-Extensions/add-ons for Mozilla Firefox, Tor browser.
+Extensions/add-ons for Mozilla Firefox, Firefox ESR (Extended Support Release), Tor browser.
 
 <!-- 
 _template_ ([#]())</br>
@@ -52,11 +52,11 @@ Privacy Badger ([EFF Technologists](https://addons.mozilla.org/en-US/firefox/use
 
 uBlock Origin ([Raymond Hill](https://addons.mozilla.org/en-US/firefox/user/11423598/)) - a wide-spectrum blocker to stop ads, trackers, malware</br>
 [add-ons webstore](https://addons.mozilla.org/firefox/addon/ublock-origin/) | 
-[website]() | 
 [source-code](https://github.com/gorhill/uBlock/) | 
 [Documentation](https://github.com/gorhill/uBlock/wiki) | 
 [Solutions for common issues](https://www.reddit.com/r/uBlockOrigin/wiki/solutions) | 
 [Additional filter lists](https://filterlists.com/)</br>
+Tutorials: [12bytes.org](https://12bytes.org/articles/tech/firefox/ublock-origin-suggested-settings/)
 
 <br><br>
 
