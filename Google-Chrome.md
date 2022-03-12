@@ -45,7 +45,7 @@ uBlock Origin (Raymond Hill) - a wide-spectrum blocker to stop ads, trackers, ma
 [Solutions for common issues](https://www.reddit.com/r/uBlockOrigin/wiki/solutions) | 
 [Additional filter lists](https://filterlists.com/)</br>
 Tutorials: [12bytes.org](https://12bytes.org/articles/tech/firefox/ublock-origin-suggested-settings/)</br>
-
+Note: [MVPS HOSTS list](https://winhelp2002.mvps.org/hosts.htm) is included in uBlock Origin for Google Chrome; uBlock Origin for Firefox or other browsers does not have it
 
 LastPass - password manager</br>
 [add-ons webstore](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd) | 
