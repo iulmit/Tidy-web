@@ -10,6 +10,13 @@ https://en.wikipedia.org/wiki/Comparison_of_web_browsers
 
 ---
 
+To be added:</br>
+- Mozilla Firefox
+- [Chromium](https://www.chromium.org/Home/): [GitHub](https://github.com/chromium/chromium) / [source-code](https://chromium.googlesource.com/chromium/src/)
+- ungoogled-chromium (Chromium fork): [github](https://github.com/Eloston/ungoogled-chromium) / [chocolatey](https://community.chocolatey.org/packages/ungoogled-chromium) / [softpedia](https://www.softpedia.com/get/Internet/Browsers/UnGoogled-Chromium.shtml)
+- Torch Browser: [filehippo](https://filehippo.com/download_torch-browser/)
+
+---
 
 ## SeaMonkey</br>
 <img alt="image-missing" align="right" width="330" src="images/SeaMonkey_modern-theme.png">
@@ -120,7 +127,15 @@ MacOS:
 Top 10 Secure Browsers That Protect Your Privacy in 2022: Brave, Firefox, Tor browser, Ungoogled Chromium, Waterfox, Pale Moon, GNU IceCat, Iridium</br>
 https://restoreprivacy.com/browser/secure/</br>
 Some browsers are secure, but privacy at risk: Google Chrome, Microsoft Edge, Opera, Epic, Safari, Vivaldi.</br>
-Some browsers mentioned in comments: LibreWolf, Ghostery Dawn, Vivaldi
+Some browsers mentioned in comments: LibreWolf, Ghostery Dawn, Vivaldi</br>
+
+Browser Fingerprinting Protection</br>
+https://restoreprivacy.com/browser-fingerprinting/</br>
+
+WebRTC Leaks</br>
+https://restoreprivacy.com/webrtc-leaks/</br>
+Note: WebRTC cannot be disabled in Chrome (desktop)</br>
+
 
 <!-- 
 ## _title_</br>
