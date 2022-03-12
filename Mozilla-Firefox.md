@@ -2,6 +2,11 @@
 
 Extensions/add-ons for Mozilla Firefox, Firefox ESR (Extended Support Release), Tor browser.
 
+This is a list of extensions to be added to Firefox with maximum protection and still keeping it usable.
+Use case: browsing internet, reading
+
+---
+
 <!-- 
 _template_ ([#]())</br>
 [Firefox Extension]() | 
