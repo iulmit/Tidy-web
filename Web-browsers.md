@@ -114,6 +114,14 @@ MacOS:
 [official download](https://laptop-updates.brave.com/latest/osx)</br>
 
 
+---
+
+## Reference links
+Top 10 Secure Browsers That Protect Your Privacy in 2022: Brave, Firefox, Tor browser, Ungoogled Chromium, Waterfox, Pale Moon, GNU IceCat, Iridium</br>
+https://restoreprivacy.com/browser/secure/</br>
+Some browsers are secure, but privacy at risk: Google Chrome, Microsoft Edge, Opera, Epic, Safari, Vivaldi.</br>
+Some browsers mentioned in comments: LibreWolf, Ghostery Dawn, Vivaldi
+
 <!-- 
 ## _title_</br>
 <img alt="image-missing" align="right" width="330" src="images/image.jpg">
