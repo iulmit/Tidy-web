@@ -120,3 +120,9 @@ https://restoreprivacy.com/webrtc-leaks/</br>
 about:config > media.peerconnection.enabled > **false**</br>
 Note: WebRTC cannot be disabled in Chrome (desktop)</br>
 
+tothi / linkedin-auth-bypass - a minimal WebExtension for browsing LinkedIn and Facebook without authorizing as a logged in user</br>
+https://github.com/tothi/linkedin-auth-bypass</br>
+
+How to develop an extension with WebExtensions APIs with Firefox</br>
+https://wiki.mozilla.org/WebExtensions</br>
+https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/</br>
