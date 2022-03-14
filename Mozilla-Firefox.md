@@ -113,6 +113,36 @@ https://github.com/Smile4ever/Neat-URL/blob/master/README.md#parameter-rules
 
 ---
 
+# Bypass/Paywall (extensions under supervision)
+Read articles from websites that implement a paywall
+
+**Example1: login form show up, preventing reading article**</br>
+Check out this link from ([iseletsk](https://www.linkedin.com/in/iseletsk)):</br>
+https://www.linkedin.com/in/iseletsk/recent-activity/</br>
+
+**Exemple2: a page opens to "solve this puzzle"**</br>
+Some details:</br>
+https://www.linkedin.com/help/linkedin/answer/3065/security-verification-when-signing-in?lang=en
+
+
+**Extensions:**</br>
+Bypass Paywalls Clean ([magnolia1234](https://addons.mozilla.org/en-US/firefox/user/15546469/))</br>
+[Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean/) | 
+[website]() | 
+[source-code](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean)</br>
+
+FastForward - a continuation of "Universal Bypass" (by Sainan)</br>
+[Firefox Extension](https://addons.mozilla.org/en-US/firefox/addon/fastforwardteam/) | 
+[website](https://fastforward.team/) | 
+[source-code](https://github.com/FastForwardTeam/FastForward)</br>
+
+Universal Bypass ([Sainan](https://addons.mozilla.org/en-US/firefox/user/13867714/)) - discontinued since 2021-07-26</br>
+[Firefox Extension](https://github.com/FastForwardTeam/FastForward) | 
+[website](https://fastforward.team/) | 
+[source-code](https://github.com/Sainan/Universal-Bypass)</br>
+
+---
+
 # Reference links
 
 WebRTC Leaks</br>
