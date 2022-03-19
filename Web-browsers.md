@@ -11,10 +11,31 @@ https://en.wikipedia.org/wiki/Comparison_of_web_browsers
 ---
 
 To be added:</br>
-- Mozilla Firefox
+
 - [Chromium](https://www.chromium.org/Home/): [GitHub](https://github.com/chromium/chromium) / [source-code](https://chromium.googlesource.com/chromium/src/)
+
 - ungoogled-chromium (Chromium fork): [github](https://github.com/Eloston/ungoogled-chromium) / [chocolatey](https://community.chocolatey.org/packages/ungoogled-chromium) / [softpedia](https://www.softpedia.com/get/Internet/Browsers/UnGoogled-Chromium.shtml)
 - Torch Browser: [filehippo](https://filehippo.com/download_torch-browser/)
+
+---
+
+## Mozilla Firefox</br>
+<img alt="image-missing" align="right" width="330" src="images/Mozilla-Firefox-v98.png">
+
+[Firefox](https://en.wikipedia.org/wiki/Firefox) is developed by the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) and its subsidiary, the [Mozilla Corporation](https://en.wikipedia.org/wiki/Mozilla_Corporation). The Mozilla Foundation offers a "bug bounty" (US$3,000 to US$7,500 cash reward) to researchers who discover severe security holes in Firefox. 
+
+[Firefox ESR](https://www.mozilla.org/en-US/firefox/enterprise/) (Extended Support Release) is a version of Firefox for organizations and other groups that need extended support for mass deployments. Each ESR release, based on the regular version released at the same time, is supported for one year. Unlike the regular ("rapid") releases, ESRs are not updated with new features and performance enhancements every four weeks, but rather are updated with only high-risk-reduction or high-impact security fixes or major stability fixes with point releases, until the end of the ESR cycle.
+
+Firefox developers builds [Tier-1 Targets](https://firefox-source-docs.mozilla.org/build/buildsystem/supported-configurations.html#tier-1-targets) (Android, Linux, macOS, and Windows) using [hosts such as](https://firefox-source-docs.mozilla.org/build/buildsystem/supported-configurations.html#build-hosts) Ubuntu x64, Debian x64, Fedora x64, macOS Intel & M1, Windows x64. Their supported compilers are _clang_ and _gcc_. There are dedicated pages for building on [Windows](https://firefox-source-docs.mozilla.org/setup/windows_build.html), [macOS](https://firefox-source-docs.mozilla.org/setup/macos_build.html) and [Linux](https://firefox-source-docs.mozilla.org/setup/linux_build.html).
+Links: [website](https://www.mozilla.org/en-US/) | 
+[repository/source-code](https://firefox-source-docs.mozilla.org/)</br>
+Windows/Linux/MacOS: 
+[official download](https://www.mozilla.org/en-US/firefox/all/)</br>
+[Old versions](https://support.mozilla.org/en-US/kb/install-older-version-firefox?redirectslug=install-older-version-of-firefox&redirectlocale=en-US)
+Windows: 
+[softpedia](https://www.softpedia.com/get/Internet/Browsers/Mozilla-Firefox-Final.shtml) | 
+[filehippo](https://filehippo.com/download_mozilla-firefox-64/) (looks old, need to check) | 
+[chocolatey](https://community.chocolatey.org/packages/Firefox)</br>
 
 ---
 
