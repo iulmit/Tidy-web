@@ -33,10 +33,42 @@ There are a number of hardware encryption devices: [Yubikey](https://keylockguid
 
 ---
 
+## Applications (desktop clients)
+
+### Thunderbird</br>
+https://www.thunderbird.net/en-US/
+
+Building Thunderbird is detaild on [Gettings Started](https://developer.thunderbird.net/thunderbird-development/getting-started) page. There are [Build details](https://developer.thunderbird.net/thunderbird-development/building-thunderbird) specific to each platform: Windows, Linux, macOS.
+
+
+Some changes of the default settings:
+- Menu > Tools > Preferences
+  - General
+    - Default Search Engine > DuckDuckGo
+    - Files & Attachements > Portable Document Format (PDF) > Action: use other client ([details](https://support.mozilla.org/en-US/questions/1347362))
+  - Privacy & Security
+    - Thunderbird Data Collection and Use > Send technical and interaction data to Mozilla > `disable`
+    - Thunderbird Data Collection and Use > Send backlogged crash reports on your behalf > `disable`
+  - Chat
+    - Status > When Thunderbird starts: `Keep my Chat Account offline`
+    - Notifications > When messages directed at you arrive > Play a sound > `disabled`
+- Menu > Help > More Troubleshooting Information 
+  - [about:telemetry](https://support.mozilla.org/en-US/kb/thunderbird-telemetry) > "Telemetry is collecting release data and upload is enabled." > `disable` (???)
+    - info to review: https://groups.google.com/g/mozilla.support.thunderbird/c/sB3KVS-EBMs
+
+---
+## Webmail providers
+
+### ProtonMail
+[Website](https://protonmail.com/) | [Tips & tricks](https://protonmail.com/support/categories/tipsandtricks/)
+
+---
+
 ## Reference links
 
-S/MIME Email Encryption</br>
-https://docs.nitrokey.com/pro/smime.html
+[S/MIME](https://en.wikipedia.org/wiki/S/MIME) Email Encryption (S/MIME = secure email)</br>
+https://docs.nitrokey.com/pro/smime.html</br>
+https://askubuntu.com/questions/181851/how-to-obtain-a-s-mime-certificate-for-e-mail-encryption
 
 OpenPGP/GnuPG</br>
 https://docs.nitrokey.com/pro/openpgp.html
