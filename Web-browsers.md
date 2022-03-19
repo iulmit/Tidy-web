@@ -52,7 +52,7 @@ Windows/Linux/MacOS:
 Windows: 
 [softpedia](https://www.softpedia.com/get/Internet/Browsers/SeaMonkey.shtml) | 
 [filehippo](https://filehippo.com/download_seamonkey/) | 
-chocolatey: not available</br>
+[chocolatey](https://community.chocolatey.org/packages/seamonkey)</br>
 
 
 ## GNU IceCat</br>
