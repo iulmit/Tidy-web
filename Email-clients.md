@@ -56,6 +56,11 @@ Some changes of the default settings:
   - [about:telemetry](https://support.mozilla.org/en-US/kb/thunderbird-telemetry) > "Telemetry is collecting release data and upload is enabled." > `disable` (???)
     - info to review: https://groups.google.com/g/mozilla.support.thunderbird/c/sB3KVS-EBMs
 
+An error appears after adding some Gmail accounts: "Your browser is not supported anymore. Please update to a more recent one."</br>
+[The solution](https://libredd.it/r/Thunderbird/comments/ovdb86/your_browser_is_not_supported_anymore_please/) is to go to Thunderbird Preferences > General > Config Editor, and set the following flag to **True**:
+  `general.useragent.compatMode.firefox`
+
+
 ---
 ## Webmail providers
 
