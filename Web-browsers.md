@@ -37,6 +37,9 @@ Windows:
 [filehippo](https://filehippo.com/download_mozilla-firefox-64/) (looks old, need to check) | 
 [chocolatey](https://community.chocolatey.org/packages/Firefox)</br>
 
+Some tips & tricks here:</br>
+https://github.com/iulmit/Tidy-web/blob/main/Mozilla-Firefox.md
+
 ---
 
 ## SeaMonkey</br>
@@ -53,6 +56,9 @@ Windows:
 [softpedia](https://www.softpedia.com/get/Internet/Browsers/SeaMonkey.shtml) | 
 [filehippo](https://filehippo.com/download_seamonkey/) | 
 [chocolatey](https://community.chocolatey.org/packages/seamonkey)</br>
+
+Some tips & tricks here:</br>
+https://github.com/iulmit/Tidy-web/blob/main/SeaMonkey.md
 
 
 ## GNU IceCat</br>
@@ -74,6 +80,9 @@ Linux:
 [RO mirror - HTTPs](https://mirrors.nav.ro/gnu/icecat/)</br>
 MacOS: no recent download</br>
 
+Some tips & tricks here:</br>
+https://github.com/iulmit/Tidy-web/blob/main/GNU-IceCat.md
+
 
 ## Pale Moon</br>
 <img alt="image-missing" align="right" width="330" src="images/Pale-Moon_v29.webp">
@@ -89,6 +98,9 @@ Windows:
 [chocolatey](https://community.chocolatey.org/packages/palemoon)</br>
 Linux: 
 [official download](https://linux.palemoon.org/)</br>
+
+Some tips & tricks here:</br>
+https://github.com/iulmit/Tidy-web/blob/main/Pale-Moon.md
 
 
 ## Waterfox</br>
@@ -107,6 +119,10 @@ Windows only:
 [filehippo](https://filehippo.com/download_waterfox/) | 
 [chocolatey](https://community.chocolatey.org/packages/waterfox)</br>
 
+Some tips & tricks here:</br>
+https://github.com/iulmit/Tidy-web/blob/main/Waterfox.md
+
+
 ## Waterfox classic</br>
 <img alt="image-missing" align="right" width="330" src="images/Waterfox-Classic_2022-02.svg">
 
@@ -121,6 +137,9 @@ Windows:
 filehippo: not available | 
 [chocolatey](https://community.chocolatey.org/packages/waterfox-classic)</br>
 
+Some tips & tricks here:</br>
+https://github.com/iulmit/Tidy-web/blob/main/Waterfox.md
+
 
 ## Brave</br>
 <img alt="image-missing" align="right" width="330" src="images/Brave_desktop-hero_2022.webp">
@@ -128,7 +147,8 @@ filehippo: not available |
 A Chromium-based browser often recommended for privacy. It can browse Dark web (Tor network) via Brave Tor node ([how-to](https://restoreprivacy.com/how-to-access-dark-web-safely/)). It's recommended having a VPN as well.</br>
 
 Links: [website](https://brave.com/) | 
-[repository/source-code](https://github.com/brave/brave-browser)</br>
+[repository/source-code](https://github.com/brave/brave-browser) | 
+[Privacy Settings](https://support.brave.com/hc/en-us/articles/360017989132-How-do-I-change-my-Privacy-Settings-)</br>
 Windows/linux/MacOS:
 [official download](https://brave.com/download/)</br>
 Windows: 
@@ -141,6 +161,8 @@ Linux:
 MacOS: 
 [official download](https://laptop-updates.brave.com/latest/osx)</br>
 
+Some tips & tricks here:</br>
+https://github.com/iulmit/Tidy-web/blob/main/Brave.md
 
 ---
 
