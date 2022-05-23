@@ -1,5 +1,5 @@
 <!-- current link
-https://github.com/iulmit/Tidy-web/blob/main/Pale-Moon.md
+https://github.com/iulmit/Tidy-web/blob/main/Application/Pale-Moon.md
 -->
 
 # Pale Moon extensions

@@ -1,5 +1,5 @@
 <!-- current link
-https://github.com/iulmit/Tidy-web/blob/main/Google-Chrome.md
+https://github.com/iulmit/Tidy-web/blob/main/Application/Google-Chrome.md
 -->
 
 # Google Chrome extensions

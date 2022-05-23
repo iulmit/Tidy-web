@@ -1,5 +1,5 @@
 <!-- current link
-https://github.com/iulmit/Tidy-web/blob/main/Mozilla-Firefox.md
+https://github.com/iulmit/Tidy-web/blob/main/Application/Mozilla-Firefox.md
 -->
 
 # Mozilla Firefox add-ons

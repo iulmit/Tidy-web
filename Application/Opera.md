@@ -1,5 +1,5 @@
 <!-- current link
-https://github.com/iulmit/Tidy-web/blob/main/Opera.md
+https://github.com/iulmit/Tidy-web/blob/main/Application/Opera.md
 -->
 
 # Opera extensions
