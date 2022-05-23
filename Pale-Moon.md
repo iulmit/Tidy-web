@@ -1,3 +1,7 @@
+<!-- current link
+https://github.com/iulmit/Tidy-web/blob/main/Pale-Moon.md
+-->
+
 # Pale Moon extensions
 
 Extensions/add-ons for Pale Moon browser.

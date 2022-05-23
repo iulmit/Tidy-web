@@ -1,3 +1,7 @@
+<!-- current link
+https://github.com/iulmit/Tidy-web/blob/main/Mozilla-Firefox.md
+-->
+
 # Mozilla Firefox add-ons
 
 Extensions/add-ons for Mozilla Firefox, Firefox ESR (Extended Support Release), Tor browser.

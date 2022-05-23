@@ -1,3 +1,7 @@
+<!-- current link
+https://github.com/iulmit/Tidy-web/blob/main/README.md
+-->
+
 # Tidy-web
 
 The [Internet](https://en.wikipedia.org/wiki/Internet) is not regulated. In many ways, it's a wild-west. As it evolved, little care is taken for the reader, especially the press articles. Lot of ads, banners, pop-ups, forms (to subscribe for news, newsletter etc) and many other buzzware. Not to mention cookies, media buttons and links, trackers etc. Reading information on the internet is not so pleasant for the most part. We'd like to clean all this mess in a way which:

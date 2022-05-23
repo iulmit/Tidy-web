@@ -1,3 +1,7 @@
+<!-- current link
+https://github.com/iulmit/Tidy-web/blob/main/Web-browsers.md
+-->
+
 # Web browsers
 Accessing the [internet](https://en.wikipedia.org/wiki/Internet) can be done in several ways on computer/laptop, either using a fancy internet browser or a simple one in the terminal console. Presented bellow are information from trusted sources.
 
