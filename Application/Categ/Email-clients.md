@@ -1,5 +1,5 @@
 <!-- current link
-https://github.com/iulmit/Tidy-web/blob/main/Email-clients.md
+https://github.com/iulmit/Tidy-web/blob/main/Application/Categ/Email-clients.md
 -->
 
 # Email clients
