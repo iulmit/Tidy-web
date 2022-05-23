@@ -24,7 +24,7 @@ To be added:</br>
 ---
 
 ## Mozilla Firefox</br>
-<img alt="image-missing" align="right" width="330" src="images/Mozilla-Firefox-v98.png">
+<img alt="image-missing" align="right" width="330" src="img/Mozilla-Firefox-v98.png">
 
 [Firefox](https://en.wikipedia.org/wiki/Firefox) is developed by the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) and its subsidiary, the [Mozilla Corporation](https://en.wikipedia.org/wiki/Mozilla_Corporation). The Mozilla Foundation offers a "bug bounty" (US$3,000 to US$7,500 cash reward) to researchers who discover severe security holes in Firefox. 
 
@@ -47,7 +47,7 @@ https://github.com/iulmit/Tidy-web/blob/main/Mozilla-Firefox.md
 ---
 
 ## SeaMonkey</br>
-<img alt="image-missing" align="right" width="330" src="images/SeaMonkey_modern-theme.png">
+<img alt="image-missing" align="right" width="330" src="img/SeaMonkey_modern-theme.png">
 
 [SeaMonkey](https://en.wikipedia.org/wiki/SeaMonkey) is a browser having other apps integrated: e-mail and news client (Mail), HTML editor (Composer) and IRC client. It comes by default with _Modern_ and _Classic_ skins (themes), the [gorgeous Modern](https://www.freeemailtutorials.com/mozillaMail/mozillaMailThemes.php) reminding of [Netscape Navigator 6.1](https://en.wikipedia.org/wiki/Netscape_(web_browser)), the most appealing. Saddly, it was discontinued starting 2008-03-01. During the years it has different themes as shown on [Writework](https://www.writework.com/essay/web-browser-axia-college-university-phoenix-220-david-thomas) or [Everipedia](https://everipedia.org/wiki/lang_en/Netscape_(web_browser)).</br>
 
@@ -66,7 +66,7 @@ https://github.com/iulmit/Tidy-web/blob/main/SeaMonkey.md
 
 
 ## GNU IceCat</br>
-<img alt="image-missing" align="right" width="330" src="images/GNU_IceCat_v60.png">
+<img alt="image-missing" align="right" width="330" src="img/GNU_IceCat_v60.png">
 
 [GNUzilla](https://handwiki.org/wiki/Software:Gnuzilla) is the [GNU version](https://en.wikipedia.org/wiki/GNU) of the [Mozilla Application Suite (discontinued)](https://en.wikipedia.org/wiki/Mozilla_Application_Suite), and [GNU IceCat](https://en.wikipedia.org/wiki/GNU_IceCat) is the [GNU version](https://en.wikipedia.org/wiki/GNU) of the [Firefox browser](https://en.wikipedia.org/wiki/Firefox).</br>
 Note that building binary packages for Windows and MacOS currently requires nonfree software, so there is no binary package for those platforms.</br>
@@ -89,7 +89,7 @@ https://github.com/iulmit/Tidy-web/blob/main/GNU-IceCat.md
 
 
 ## Pale Moon</br>
-<img alt="image-missing" align="right" width="330" src="images/Pale-Moon_v29.webp">
+<img alt="image-missing" align="right" width="330" src="img/Pale-Moon_v29.webp">
 
 Firefox-based web browser that offers fast browsing speed while retaining a traditional user-friendly interface adopted by earlier versions of Firefox. Compatible with Windows and linux.</br>
 
@@ -108,7 +108,7 @@ https://github.com/iulmit/Tidy-web/blob/main/Pale-Moon.md
 
 
 ## Waterfox</br>
-<img alt="image-missing" align="right" width="330" src="images/Waterfox-G4_(2022).svg">
+<img alt="image-missing" align="right" width="330" src="img/Waterfox-G4_(2022).svg">
 
 A fork of Firefox that was maintained by just one person (Alex Kontos) for many years and was playing nive with privacy: no telemetry, no data collection, very clean. Sadly, it has been [sold to System1](https://www.waterfox.net/blog/waterfox-has-joined-system1) ([alt1 link](https://www.ghacks.net/2020/02/14/waterfox-web-browser-sold-to-system1/), [alt2 link](https://old.reddit.com/r/privacy/comments/f3gqoc/privacy_browser_waterfox_appears_to_be_sold_to/)), the same company that [bought Startpage search engine](https://www.ghacks.net/2019/11/16/startpage-search-owner-changes-raise-serious-questions/).</br>
 Note: [System1](https://system1.com/) is actually in the business of data collection</br>
@@ -128,7 +128,7 @@ https://github.com/iulmit/Tidy-web/blob/main/Waterfox.md
 
 
 ## Waterfox classic</br>
-<img alt="image-missing" align="right" width="330" src="images/Waterfox-Classic_2022-02.svg">
+<img alt="image-missing" align="right" width="330" src="img/Waterfox-Classic_2022-02.svg">
 
 A legacy web browser for older systems and those that require use of [XPCOM](https://en.wikipedia.org/wiki/XPCOM) and [XUL](https://en.wikipedia.org/wiki/XUL) extensions.</br>
 Note1: As of [2021-10-28](https://www.waterfox.net/blog/classic-update/) post, Waterfox Classic and Waterfox diverged into different scopes.</br>
@@ -146,7 +146,7 @@ https://github.com/iulmit/Tidy-web/blob/main/Waterfox.md
 
 
 ## Brave</br>
-<img alt="image-missing" align="right" width="330" src="images/Brave_desktop-hero_2022.webp">
+<img alt="image-missing" align="right" width="330" src="img/Brave_desktop-hero_2022.webp">
 
 A Chromium-based browser often recommended for privacy. It can browse Dark web (Tor network) via Brave Tor node ([how-to](https://restoreprivacy.com/how-to-access-dark-web-safely/)). It's recommended having a VPN as well.</br>
 
@@ -186,7 +186,7 @@ Note: WebRTC cannot be disabled in Chrome (desktop)</br>
 
 <!-- 
 ## _title_</br>
-<img alt="image-missing" align="right" width="330" src="images/image.jpg">
+<img alt="image-missing" align="right" width="330" src="img/image.jpg">
 
 _description_</br>
 
