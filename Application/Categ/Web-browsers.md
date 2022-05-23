@@ -24,7 +24,7 @@ To be added:</br>
 ---
 
 ## Mozilla Firefox</br>
-<img alt="image-missing" align="right" width="330" src="img/Mozilla-Firefox-v98.png">
+<img alt="image-missing" align="right" width="330" src="/img/Mozilla-Firefox-v98.png">
 
 [Firefox](https://en.wikipedia.org/wiki/Firefox) is developed by the [Mozilla Foundation](https://en.wikipedia.org/wiki/Mozilla_Foundation) and its subsidiary, the [Mozilla Corporation](https://en.wikipedia.org/wiki/Mozilla_Corporation). The Mozilla Foundation offers a "bug bounty" (US$3,000 to US$7,500 cash reward) to researchers who discover severe security holes in Firefox. 
 
