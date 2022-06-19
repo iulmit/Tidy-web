@@ -149,6 +149,9 @@ Universal Bypass ([Sainan](https://addons.mozilla.org/en-US/firefox/user/1386771
 
 # Reference links
 
+arkenfox / user.js - a comprehensive user.js template for configuration and hardening (privacy, security and anti-tracking)</br>
+https://github.com/arkenfox/user.js</br>
+
 WebRTC Leaks</br>
 https://restoreprivacy.com/webrtc-leaks/</br>
 about:config > media.peerconnection.enabled > **false**</br>
