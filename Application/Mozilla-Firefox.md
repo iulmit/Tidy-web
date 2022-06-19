@@ -149,6 +149,9 @@ Universal Bypass ([Sainan](https://addons.mozilla.org/en-US/firefox/user/1386771
 
 # Reference links
 
+`privacy.resistFingerprinting` set on disable breaks Netflix</br>
+https://www.draklyckan.se/2021/12/fix-netflix-error-f7121-1331-for-firefox/</br>
+
 arkenfox / user.js - a comprehensive user.js template for configuration and hardening (privacy, security and anti-tracking)</br>
 https://github.com/arkenfox/user.js</br>
 
